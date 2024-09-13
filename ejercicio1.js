@@ -1,6 +1,6 @@
 let LetraCalificacion = "B"
 
-switch (key) {
+switch (LetraCalificacion) {
     case "A":
         console.log("Excelente trabajo")
 
